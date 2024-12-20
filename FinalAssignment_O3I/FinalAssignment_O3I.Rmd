@@ -20,7 +20,7 @@ author:
   - name: Zeny Feng
     aff: Department of Mathematics & Statistics, University of Guelph, Guelph, ON N1G 2W1, Canada
 title:
-  formatted: Urinary metabolite profiling to non-invasively monitor omega-3 index\footnote{Metabolites 2023, 13, 1071. https://doi.org/10.3390/metabo13101071}
+  formatted: Review Urinary metabolite profiling to non-invasively monitor omega-3 index\footnote{Metabolites 2023, 13, 1071. https://doi.org/10.3390/metabo13101071}
   short: An \textsf{achemso} demo
 abbr: IR,NMR,UV
 keywords: precision nutrition; metabolomics; omega-3 long-chain polyunsaturated fatty acids
